@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Deep learning courses at UC Berkeley
 
-You can use the [editor on GitHub](https://github.com/berkeley-deep-learning/berkeley-deep-learning.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here is a subset of deep learning-related courses which have been offered at UC Berkeley.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Spring 2017
+* [CS 294-112: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+* [CS 294-131: Special Topics in Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s17)
 
-### Markdown
+## Fall 2016
+* [CS 294-129: Designing, Visualizing and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1453965/) 
+* [CS 294-131: Special Topics in Deep Learning](https://berkeley-deep-learning.github.io/cs294-dl-f16)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Fall 2015
+* [CS 294-112: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse-fa15/)
 
-```markdown
-Syntax highlighted code block
+----
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/berkeley-deep-learning/berkeley-deep-learning.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Pull requests
+Please file a pull request if you notice something which should be updated on this page.
