@@ -16,4 +16,4 @@ Here is a subset of deep learning-related courses which have been offered at UC 
 ----
 
 ### Pull requests
-Please file a pull request if you notice something which should be updated on this page.
+Please file a [pull request](https://github.com/berkeley-deep-learning/berkeley-deep-learning.github.io/pulls) if you notice something which should be updated on this page.
