@@ -2,6 +2,10 @@
 
 Here is a subset of deep learning-related courses which have been offered at UC Berkeley.
 
+## Fall 2017
+* [CS 294-112: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+* [CS 294-131: Special Topics in Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-f17/)
+
 ## Spring 2017
 * [CS 294-112: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 * [CS 294-131: Special Topics in Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s17)
